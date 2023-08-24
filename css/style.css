@@ -371,8 +371,9 @@
 
 .twoside-futtor{
     display: flex;
-    margin-left: 170px;
     margin-bottom: 40px;
+    justify-content: space-around;
+    gap: 330px;
 }
 
 .icons{
@@ -385,7 +386,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 700px;
 }
 
 .hr1{
